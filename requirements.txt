@@ -1,0 +1,17 @@
+streamlit
+requests
+urllib3
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+Pillow
+scikit-learn
+python-docx ; sys_platform == 'win32'
+pywin32 ; sys_platform == 'win32'
+pythoncom ; sys_platform == 'win32'
+rapidfuzz
+fuzzywuzzy
+python-Levenshtein ; extra == "fuzzywuzzy"
+xlrd
